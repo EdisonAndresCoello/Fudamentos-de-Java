@@ -5,7 +5,7 @@ public class Main {
 		
 		cc.depositar(1000);
 		System.out.println(cc.getSaldo());
-		ca.depositar(1000);
+		ca.depositar(500);
 		System.out.println(ca.getSaldo());
 	}
 }
