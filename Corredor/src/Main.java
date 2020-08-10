@@ -16,11 +16,6 @@ public class Main {
 	       corr2.entrenar();
 	       corr2.verificarEnergia();
 	       
-	       corr2.verificarEnergia();
-	       corr2.recargarEnergia(90);
-	       corr2.verificarEnergia();
-	       corr2.entrenar();
-	       corr2.verificarEnergia();
 	       
 	       
 	}
