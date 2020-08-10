@@ -27,6 +27,7 @@ public class Main {
 		
 		System.out.println(empresa.totalEmpleados());
 		System.out.println(empresa.diaDePago());
+		System.out.println(nadaaaaa);
 	}
 
 }
